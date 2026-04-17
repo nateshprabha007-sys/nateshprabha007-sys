@@ -1,97 +1,80 @@
-# 👋 Hi, I'm Natesh Prabha
+# M. Natesh Prabha
 
-📍 Chennai, India  
-📧 nateshprabha007@gmail.com  
-📞 8148465235  
+📧 nateshprabha007@gmail.com | 📞 8148465235 | 📍 Chennai, India
 
 ---
 
-## 🚀 About Me
-I am a passionate **Software Engineer** specializing in **Java development** with a strong understanding of object-oriented programming and backend systems.
+## 👤 Profile
 
-I have hands-on experience in:
-- Core Java
-- Data Structures & Collections
-- Multithreading
-- JDBC
-- Exception Handling
-- File Handling (Java I/O)
+Computer Science Engineering student with a strong foundation in Java, Object-Oriented Programming, and database management. Skilled in developing backend applications and machine learning solutions for real-world problems. Focused on building efficient systems and continuously improving problem-solving and software development skills.
 
 ---
 
 ## 🎓 Education
-**B.E - Computer Science Engineering**  
-Panimalar Engineering College, Chennai  
-CGPA: 7.90 (2022 – 2026)
 
-**HSC (12th)**  
-Laurel Higher Secondary School  
-79% (2021 – 2022)
-
-**SSLC (10th)**  
-Laurel Higher Secondary School  
-89% (2019 – 2020)
+| Degree | Institution | Duration | Score |
+|--------|-------------|----------|-------|
+| B.E (Computer Science Engineering) | Panimalar Engineering College, Chennai | 10/2022 – 2026 | 7.90 CGPA |
+| HSC (Stateboard) | Laurel Higher Secondary School, Thanjavur | 09/2021 – 05/2022 | 79% |
+| SSLC (Stateboard) | Laurel Higher Secondary School, Thanjavur | 05/2019 – 06/2020 | 89% |
 
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### 🌱 AI-Based Onion Yield Prediction
-- Built a machine learning model to predict onion crop yield using historical agricultural data
-- Used rainfall, temperature, and soil conditions
-- Helps farmers make better decisions
+### 📚 Student Management System (Java)
 
-**Technologies Used:**
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+- Developed a Java-based application to manage **100+ student records** with add, update, delete, and search functionalities.
+- Applied **Object-Oriented Programming (OOP)** concepts to build a modular and maintainable system architecture.
+- Implemented **file handling** for structured data storage and efficient record retrieval.
+- Integrated **JDBC connectivity** to perform CRUD operations with an SQL database.
+- Automated manual record maintenance, improving data accessibility and reducing administrative effort.
+
+---
+
+### 🫁 Lung Disease Prediction
+
+- Developed a **machine learning model** to predict lung disease using multiple patient health parameters.
+- Preprocessed and analyzed healthcare datasets using **Pandas** and **NumPy** to improve data quality and consistency.
+- Performed feature selection and trained predictive models using **Scikit-learn**, **TensorFlow**, and **Keras** frameworks.
+- Designed and implemented a **Django-based web application** for real-time data input and prediction output visualization.
+
+**Technologies Used:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras` `Django`
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages
-- Java
-- Python
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Database
-- SQL
-
-### Core Concepts
-- OOP (Object-Oriented Programming)
-- Data Structures & Algorithms (Learning)
-
----
-
-## 📜 Certifications
-- OOPS in Java  
-- Python Basic Fundamentals  
-- Cybersecurity Fundamentals  
+- Java & OOP Concepts
+- SQL (Database Management)
+- Python & Machine Learning
 
 ---
 
-## 🏆 Achievements
-- 🥈 2nd Prize – Speech Competition  
-- 🤾 Kabaddi – School Level  
-- ⚽ Football – College Level  
+## 📜 Certificates
+
+- ✅ OOPS in JAVA
+- ✅ Python Basic Fundamentals
 
 ---
 
 ## 🌐 Languages
-- Tamil  
-- English  
+
+- English
+- Tamil
 
 ---
 
-## 📌 Goals
-- Become a Java Backend Developer  
-- Build real-world applications  
-- Contribute to open source  
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nateshprabha007@gmail.com)
 
 ---
 
-## 🔗 Connect with Me
-Feel free to reach out for collaboration or opportunities!
+⭐ *Feel free to explore my repositories and connect!*
